@@ -1,0 +1,8 @@
+canvas {
+	width: 100%;
+	background: black; 
+}
+html ,body {
+ height:100%;
+  margin:0; /*the thing for doing the the margin 100% is for assure that the canvas cover over the body */ 
+}
